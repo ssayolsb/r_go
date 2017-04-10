@@ -9,3 +9,5 @@ This R image also have the following packages:
 -MASS
 -sandwich
 -lmtest
+
+I have solved some problems with Hmisc, compareGroups,lmtest packages
