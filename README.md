@@ -15,3 +15,4 @@ I have solved some problems with Hmisc, compareGroups,lmtest packages
 I added the glmnet package to the R image.
 
 I added two different packages (gplots and VennDiagram) to create venn diagrams.
+I added parallel package
