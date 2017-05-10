@@ -1,4 +1,4 @@
-FROM r-base
+FROM r-base:3.3.3
 RUN apt-get update
 RUN apt-get install -y  libcurl4-gnutls-dev libxml2-dev
 RUN Rscript -e 'source("http://bioconductor.org/biocLite.R"); biocLite("sva");biocLite("minfi");biocLite("minfiData");biocLite("wateRmelon");'
