@@ -16,3 +16,5 @@ I added the glmnet package to the R image.
 
 I added two different packages (gplots and VennDiagram) to create venn diagrams.
 I added parallel package
+
+I added minfi, minfiData and wateRmelon R packages!
